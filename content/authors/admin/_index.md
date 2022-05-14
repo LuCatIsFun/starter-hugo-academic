@@ -29,7 +29,6 @@ education:
   courses:
   - course: 计算机科学与技术
     institution: 河北工业大学
-    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
